@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/genkitakayama/Documents/QLearningHW/QLearningHW/QLearningHW.csproj": {}
+    "/Users/genkitakayama/Documents/GitHub/Cliff_Walking/QLearningHW/QLearningHW.csproj": {}
   },
   "projects": {
-    "/Users/genkitakayama/Documents/QLearningHW/QLearningHW/QLearningHW.csproj": {
+    "/Users/genkitakayama/Documents/GitHub/Cliff_Walking/QLearningHW/QLearningHW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/genkitakayama/Documents/QLearningHW/QLearningHW/QLearningHW.csproj",
+        "projectUniqueName": "/Users/genkitakayama/Documents/GitHub/Cliff_Walking/QLearningHW/QLearningHW.csproj",
         "projectName": "QLearningHW",
-        "projectPath": "/Users/genkitakayama/Documents/QLearningHW/QLearningHW/QLearningHW.csproj",
+        "projectPath": "/Users/genkitakayama/Documents/GitHub/Cliff_Walking/QLearningHW/QLearningHW.csproj",
         "packagesPath": "/Users/genkitakayama/.nuget/packages/",
-        "outputPath": "/Users/genkitakayama/Documents/QLearningHW/QLearningHW/obj/",
+        "outputPath": "/Users/genkitakayama/Documents/GitHub/Cliff_Walking/QLearningHW/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/genkitakayama/.nuget/NuGet/NuGet.Config"

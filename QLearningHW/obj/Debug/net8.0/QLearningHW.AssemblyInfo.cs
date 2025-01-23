@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QLearningHW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f20e2923a3cdc395c3f6b3fe0632705e1e7a4e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("QLearningHW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QLearningHW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
