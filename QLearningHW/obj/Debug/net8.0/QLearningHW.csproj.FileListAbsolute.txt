@@ -1,0 +1,14 @@
+/Users/genkitakayama/Documents/QLearningHW/QLearningHW/bin/Debug/net8.0/QLearningHW
+/Users/genkitakayama/Documents/QLearningHW/QLearningHW/bin/Debug/net8.0/QLearningHW.deps.json
+/Users/genkitakayama/Documents/QLearningHW/QLearningHW/bin/Debug/net8.0/QLearningHW.runtimeconfig.json
+/Users/genkitakayama/Documents/QLearningHW/QLearningHW/bin/Debug/net8.0/QLearningHW.dll
+/Users/genkitakayama/Documents/QLearningHW/QLearningHW/bin/Debug/net8.0/QLearningHW.pdb
+/Users/genkitakayama/Documents/QLearningHW/QLearningHW/obj/Debug/net8.0/QLearningHW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/genkitakayama/Documents/QLearningHW/QLearningHW/obj/Debug/net8.0/QLearningHW.AssemblyInfoInputs.cache
+/Users/genkitakayama/Documents/QLearningHW/QLearningHW/obj/Debug/net8.0/QLearningHW.AssemblyInfo.cs
+/Users/genkitakayama/Documents/QLearningHW/QLearningHW/obj/Debug/net8.0/QLearningHW.csproj.CoreCompileInputs.cache
+/Users/genkitakayama/Documents/QLearningHW/QLearningHW/obj/Debug/net8.0/QLearningHW.dll
+/Users/genkitakayama/Documents/QLearningHW/QLearningHW/obj/Debug/net8.0/refint/QLearningHW.dll
+/Users/genkitakayama/Documents/QLearningHW/QLearningHW/obj/Debug/net8.0/QLearningHW.pdb
+/Users/genkitakayama/Documents/QLearningHW/QLearningHW/obj/Debug/net8.0/QLearningHW.genruntimeconfig.cache
+/Users/genkitakayama/Documents/QLearningHW/QLearningHW/obj/Debug/net8.0/ref/QLearningHW.dll
