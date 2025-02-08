@@ -44,7 +44,7 @@ There's a 20% chance the agent will move right during an action, adding complexi
 - `Program.cs`: Main execution script
 
 ## Training
-The default training runs for 100,000 episodes to learn optimal navigation.
+The default training runs for 100 episodes to learn optimal navigation.
 
 ## Output
 The program displays:
